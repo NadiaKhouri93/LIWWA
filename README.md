@@ -1,3 +1,5 @@
+[![OS X Build Status](https://travis-ci.org/atom/status-bar.svg?branch=master)](https://travis-ci.org/atom/status-bar) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/gu8tv4h6cnpeesg2/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/status-bar/branch/master) [![Dependency Status](https://david-dm.org/atom/status-bar.svg)](https://david-dm.org/atom/status-bar)
+
 # seleniumFramework
 selenium Framework project using Java , Maven , TestNG and POM
 
