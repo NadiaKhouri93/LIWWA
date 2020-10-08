@@ -3,7 +3,12 @@ selenium Framework project using Java , Maven , TestNG and POM
 
 This is a task for liwwa
 
-test cases covered : 
+# How to run the tests : 
+1. on testng.xml file edit the browser value (chrome for windows --> chrome , chrome for mac --> chromemac , firefox for windows --> firefox)
+2. on testng.xml file run the project
+
+
+# test cases covered : 
 ● Opening github.com should show a search box in the header panel, with
 placeholder text of “Search Github”.
 ● Searching for the text (repo) “python/cpython” should take the user to a new
