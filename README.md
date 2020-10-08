@@ -3,6 +3,8 @@ selenium Framework project using Java , Maven , TestNG and POM
 
 This is a task for liwwa
 
+# Used IntelliJ IDEA
+
 # How to run the tests : 
 1. on testng.xml file edit the browser value (chrome for windows --> chrome , chrome for mac --> chromemac , firefox for windows --> firefox)
 2. on testng.xml file run the project
